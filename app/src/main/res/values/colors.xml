@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="item_normal_color">#ffffffff</color>
+    <color name="item_click_color">#80f0f0f0</color>
+
+    <color name="coral">#ff7f50</color> <!-- 珊瑚色 -->
+    <color name="hotpink">#ff69b4</color> <!-- 热粉红色 -->
+    <color name="yellow">#ffff00</color> <!-- 黄色 -->
+    <color name="tomato">#ff6347</color> <!-- 西红柿色 -->
+</resources>

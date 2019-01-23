@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@drawable/match_list_item_selector"
+              android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="86dp"
+        android:paddingLeft="15dp">
+
+        <com.beauty.refreshwidget.utils.CircleImageView
+            android:id="@+id/img_icon"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/item_icon"
+            android:scaleType="centerCrop"
+            android:background="@android:color/transparent"/>
+
+        <TextView
+            android:id="@+id/tv_nickname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="7dp"
+            android:layout_toRightOf="@id/img_icon"
+            android:ellipsize="end"
+            android:includeFontPadding="false"
+            android:lines="1"
+            android:text="直到世界的尽头"
+            android:textColor="#000000"
+            android:textSize="15dp"
+            android:textStyle="bold"/>
+
+    </RelativeLayout>
+
+</LinearLayout>

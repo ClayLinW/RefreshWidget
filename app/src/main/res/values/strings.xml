@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RefreshWidget</string>
+    <string name="loading_without_point">正在加载</string>
+    <string name="can_not_load_more">没有更多内容了</string>
+</resources>

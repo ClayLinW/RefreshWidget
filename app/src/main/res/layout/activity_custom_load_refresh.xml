@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+
+    <com.beauty.refreshwidget.load.refresh.PullRefreshLoadPromptLayout
+        android:id="@+id/prl_pullSwipeRefreshLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.beauty.refreshwidget.load.refresh.LoadMoreRecyclerView
+            android:id="@+id/rv_loadMore"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#ffffff"/>
+
+    </com.beauty.refreshwidget.load.refresh.PullRefreshLoadPromptLayout>
+
+</RelativeLayout>

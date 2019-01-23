@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="12dp">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="pullRefreshLoadPrompt"
+        android:text="弹性下拉刷新 + 弹性底部弹出文案"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="21dp"
+        android:onClick="pullDownRefresh"
+        android:text="弹性下拉刷新 + 弹性上拉加载"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="21dp"
+        android:onClick="customLoadRefresh"
+        android:text="弹性下拉刷新 + 封装自动上拉加载"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="21dp"
+        android:onClick="rvFooterLoad"
+        android:text="系统下拉刷新 + RecyclerView添加尾部加载"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="21dp"
+        android:onClick="noLimitRefresh"
+        android:text="弹性无边界限制下拉刷新上拉加载"/>
+
+
+</LinearLayout>

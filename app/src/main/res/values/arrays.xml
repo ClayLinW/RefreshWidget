@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="match_loading_anim">
+        <item>@drawable/match_load_0</item>
+        <item>@drawable/match_load_1</item>
+        <item>@drawable/match_load_2</item>
+        <item>@drawable/match_load_3</item>
+        <item>@drawable/match_load_4</item>
+        <item>@drawable/match_load_5</item>
+        <item>@drawable/match_load_6</item>
+        <item>@drawable/match_load_7</item>
+        <item>@drawable/match_load_8</item>
+        <item>@drawable/match_load_9</item>
+        <item>@drawable/match_load_10</item>
+
+        <item>@drawable/match_load_11</item>
+        <item>@drawable/match_load_12</item>
+        <item>@drawable/match_load_13</item>
+        <item>@drawable/match_load_14</item>
+        <item>@drawable/match_load_15</item>
+        <item>@drawable/match_load_16</item>
+        <item>@drawable/match_load_17</item>
+        <item>@drawable/match_load_18</item>
+        <item>@drawable/match_load_19</item>
+        <item>@drawable/match_load_20</item>
+
+        <item>@drawable/match_load_21</item>
+        <item>@drawable/match_load_22</item>
+        <item>@drawable/match_load_23</item>
+        <item>@drawable/match_load_24</item>
+        <item>@drawable/match_load_25</item>
+        <item>@drawable/match_load_26</item>
+        <item>@drawable/match_load_27</item>
+        <item>@drawable/match_load_28</item>
+        <item>@drawable/match_load_29</item>
+        <item>@drawable/match_load_30</item>
+
+        <item>@drawable/match_load_31</item>
+        <item>@drawable/match_load_32</item>
+        <item>@drawable/match_load_33</item>
+        <item>@drawable/match_load_34</item>
+        <item>@drawable/match_load_35</item>
+        <item>@drawable/match_load_36</item>
+        <item>@drawable/match_load_37</item>
+        <item>@drawable/match_load_38</item>
+        <item>@drawable/match_load_39</item>
+        <item>@drawable/match_load_40</item>
+        <item>@drawable/match_load_41</item>
+
+
+        <item>@drawable/match_load_anim_0</item>
+        <item>@drawable/match_load_anim_1</item>
+        <item>@drawable/match_load_anim_2</item>
+        <item>@drawable/match_load_anim_3</item>
+        <item>@drawable/match_load_anim_4</item>
+        <item>@drawable/match_load_anim_5</item>
+        <item>@drawable/match_load_anim_6</item>
+        <item>@drawable/match_load_anim_7</item>
+        <item>@drawable/match_load_anim_8</item>
+        <item>@drawable/match_load_anim_9</item>
+        <item>@drawable/match_load_anim_10</item>
+        <item>@drawable/match_load_anim_11</item>
+        <item>@drawable/match_load_anim_12</item>
+        <item>@drawable/match_load_anim_13</item>
+        <item>@drawable/match_load_anim_14</item>
+        <item>@drawable/match_load_anim_15</item>
+        <item>@drawable/match_load_anim_16</item>
+        <item>@drawable/match_load_anim_17</item>
+        <item>@drawable/match_load_anim_18</item>
+
+    </string-array>
+
+
+</resources>
